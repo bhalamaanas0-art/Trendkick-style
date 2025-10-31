@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aman Event Planner | Making Your Events Unforgettable</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="overlay">
+      <h1>Aman Event Planner</h1>
+      <p>Making your events unforgettable.</p>
+      <a href="services.html" class="btn">Explore Our Services</a>
+    </div>
+  </header>
 
+  <footer>
+    <p>© 2025 Aman Event Planner. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
